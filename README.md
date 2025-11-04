@@ -32,7 +32,7 @@ _Geometric Gallery Prototype_ allows audiences a glimpse into the power of Proce
 
 
 ## Screenshots
-![Title screen](Screenshot 2025-11-04 190114.png)
+![Title screen](https://github.com/charlescallen-blip/A2/blob/ba97ef0d41526c072299bfa808551b5d7c6e96a4/Screenshot%202025-11-04%20190114.png)
 
 
 ## Setup
