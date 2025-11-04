@@ -14,25 +14,25 @@
 
 
 ## Project Overview
-I created this project with the goal of challenging myself to work within the medium of Processing, which I previously had very little experience, providing a unique opportunity to expand my visual communication skill set as someone who hopes to pursue a career in visual storytelling. I anticipated that this distinct intersection of areas of exploration would create problem-solving situations I would not have encountered otherwise, and it most certainly did. Additionally, my prototype allows audiences a glipse into the power of Processing to produce interactive sketches through algorithmic visual outputs
+_Geometric Gallery Prototype_ allows audiences a glimpse into the power of Processing to produce interactive sketches through algorithmic visual outputs. I created this project with the goal of challenging myself to work with the medium of Java within Processing, with which I had very little prior experience. The prototype provided me a unique opportunity to expand my digital communication skill set as someone who hopes to pursue a career in visual storytelling. I anticipated that this distinct intersection of areas of exploration would create problem-solving situations I would be unlikely to otherwise encounter, and it most certainly did.
 
 
 ## Technical Specifications
-- Processing Development Environment (PDE)
+- Processing Development Environment 4 (PDE)
 - Language of Java
-- No additional plugins or APIs
+- No additional extensions, plugins, or APIs
 
 
 ## Features and Usage
-List the ready features here:
 - Title card featuring a one-line description of the project as well as keyboard controls.
-- "SPACE" to proceed to the next sketch.
-- Can additionally press "ENTER" to redraw each sketch.
+- 6 total, unique sketches, some animated, some not.
+- Use "SPACE" key to proceed to the next sketch.
+- Can additionally press "ENTER" key to redraw each sketch.
 - Will loop from beginning when all sketches have been cycled through.
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Title screen](.main/Screenshot 2025-11-04 190114.png)
 
 
 ## Setup
@@ -41,10 +41,9 @@ List the ready features here:
 3. See above (or the title screen text) for keyboard controls.
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- This project was inspired primarily by community creations shared by individuals through [openprocessing.org](https://openprocessing.org).
+- Additionally, I supplemented my coding with close study of Derek Runberg's 2015 _The SparkFun guide to Processing : create interactive art with code_, as accessible through UTS Library.
+- Further inspiration and technical guidance taken from David Mrugala's work on [thedotisblack.com](https://thedotisblack.com).
 
 
 ## Contact
