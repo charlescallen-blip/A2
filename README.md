@@ -32,7 +32,7 @@ _Geometric Gallery Prototype_ allows audiences a glimpse into the power of Proce
 
 
 ## Screenshots
-![Title screen](.main/Screenshot 2025-11-04 190114.png)
+![Title screen](Screenshot 2025-11-04 190114.png)
 
 
 ## Setup
