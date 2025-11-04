@@ -31,8 +31,8 @@ _Geometric Gallery Prototype_ allows audiences a glimpse into the power of Proce
 - Will loop from beginning when all sketches have been cycled through.
 
 
-## Screenshots
-![Title screen](https://github.com/charlescallen-blip/A2/blob/ba97ef0d41526c072299bfa808551b5d7c6e96a4/Screenshot%202025-11-04%20190114.png)
+## Screenshot
+![Title screen] (https://github.com/charlescallen-blip/A2/blob/ba97ef0d41526c072299bfa808551b5d7c6e96a4/Screenshot%202025-11-04%20190114.png)
 
 
 ## Setup
