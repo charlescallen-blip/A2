@@ -42,7 +42,7 @@ _Geometric Gallery Prototype_ allows audiences a glimpse into the power of Proce
 
 ## Acknowledgements
 - This project was inspired primarily by community creations shared by individuals through [openprocessing.org](https://openprocessing.org).
-- Additionally, I supplemented my coding with close study of Derek Runberg's 2015 _The SparkFun guide to Processing : create interactive art with code_, as accessible through UTS Library.
+- Additionally, I supplemented my coding with close studies of both Yu Zhang and Mathias Funk's 2021 _“Coding Art: The Four Steps to Creative Programming with the Processing Language"_ and Derek Runberg's 2015 _"The SparkFun guide to Processing : create interactive art with code"_, as accessible through UTS Library.
 - Further inspiration and technical guidance taken from David Mrugala's work on [thedotisblack.com](https://thedotisblack.com).
 
 
